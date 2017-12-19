@@ -86,7 +86,7 @@ resource "aws_autoscaling_group" "Caabbb" {
   }
 
   tag {
-    key                 = "aws:autoscaling:groupName"
+    key                 = "Baaa"
     value               = "${var.Baaa}"
     propagate_at_launch = true
   }
