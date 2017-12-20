@@ -1,4 +1,4 @@
-**### Terraform AWS Auto Scaling Module**
+### **Terraform AWS Auto Scaling Module**
 
 ### Objective :
 To use tools Autoscalling and LAunch configuration for EC2 instance and method to determine autoscale cluster size from internal application metrics. Automate the solution using scaling processes.
